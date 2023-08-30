@@ -34,7 +34,7 @@
     display: none;
     position: absolute;
     top: 100%;
-    width: 20vw;
+    width: 60vw;
     z-index: 9999;
     
 }
@@ -135,6 +135,14 @@ background-color: var(--branco);
         text-decoration: none;
         
     }
+    .lista-menu{
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 20vw;
+    z-index: 9999;
+    
+}
 
 }
 
@@ -154,4 +162,12 @@ background-color: var(--branco);
     .opcoes{
         margin-right: auto;
     }
+    .lista-menu{
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 20vw;
+    z-index: 9999;
+    
+}
 }
